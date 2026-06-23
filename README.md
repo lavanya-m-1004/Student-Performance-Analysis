@@ -65,13 +65,13 @@ Students Performance Dataset
 ```text
 Student_Performance_Analysis/
 │
-├── data/
-│   └── StudentsPerformance.csv
-│
 ├── charts/
 │   ├── average_scores.png
 │   ├── gender_performance.png
 │   └── total_score_distribution.png
+│
+├── data/
+│   └── StudentsPerformance.csv
 │
 ├── reports/
 │   ├── Project_Summary.txt
@@ -80,13 +80,13 @@ Student_Performance_Analysis/
 │   ├── output_3.jpeg
 │   └── output_4.jpeg
 │
-├── analysis.py
+├── gitignore 
 │
-├── gitignore
+├── LICENSE 
 │
-├── License
+├── README.md
 │
-└── README.md
+└── analysis.py
 ```
 
 ---
