@@ -1,0 +1,47 @@
+STUDENT PERFORMANCE ANALYSIS
+
+Project Overview
+Developed a data analysis project to evaluate and visualize student academic performance using Python. The project involved data preprocessing, statistical analysis, performance evaluation, and graphical representation of key insights.
+
+Dataset Information
+- Dataset Size: 1,000 Student Records
+- Attributes: Gender, Race/Ethnicity, Parental Education, Lunch Type, Test Preparation Course, Math Score, Reading Score, Writing Score
+
+Objectives
+- Analyze student performance across different subjects
+- Identify top and low-performing students
+- Compare academic performance based on gender
+- Generate meaningful insights through visualizations
+
+Analysis Performed
+- Data Validation and Cleaning
+- Statistical Analysis
+- Total Score Calculation
+- Top 5 and Bottom 5 Student Identification
+- Gender-wise Performance Comparison
+- Score Distribution Analysis
+
+Tools and Technologies
+- Python
+- Pandas
+- Matplotlib
+
+Key Findings
+- Average Math Score: 66.09
+- Average Reading Score: 69.17
+- Average Writing Score: 68.05
+- Female students showed higher average performance in Reading and Writing.
+- The dataset contained no missing values, ensuring reliable analysis.
+
+Visualizations Generated
+1. Average Scores by Subject
+2. Gender-wise Performance Analysis
+3. Total Score Distribution
+
+Project Outcome
+Successfully transformed raw educational data into meaningful insights using data analysis and visualization techniques. The project demonstrates practical skills in Python programming, data handling, statistical analysis, and reporting.
+
+Author
+Lavanya M
+B.Sc. Computer Science
+Thiagarajar College of Arts and Science, Madurai, Tamil Nadu.
